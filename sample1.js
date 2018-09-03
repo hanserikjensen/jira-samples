@@ -3,7 +3,7 @@ var JiraClient = require('jira-connector');
 var jira = new JiraClient({
     host: 'elasticbox.atlassian.net',
     basic_auth: {
-        base64: 'aGFucy5qZW5zZW5AY2VudHVyeWxpbmsuY29tOkhOVzgzJEpQR2VoYQ=='
+        base64: 'redacted'
     }
 });
 
